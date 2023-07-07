@@ -1,9 +1,9 @@
 # Trabalho Processamento de Imagens
 
 ## Grupo
-Lucas Sanchez Silva
-João Pedro Alves Januário
-Guilherme Branco Peres Salami
+Lucas Sanchez Silva<br>
+João Pedro Alves Januário<br>
+Guilherme Branco Peres Salami<br>
 
 ## Objetivo
 O Objetivo deste Trabalho era realizar o pré-processamento das imagens do dataset Quick, Draw! (https://github.com/googlecreativelab/quickdraw-dataset/) para realizar o treinamento em uma rede neural implementada em C++
@@ -20,4 +20,4 @@ Contém resizer.js com o uso do Resize da Biblioteca JIMP, lê imagens do F_PNG 
 
 ## Utilização
 Para utilizar os códigos é necessário ter instalado NodeJS e Node Package Manager
-Execute no diretório de trabalho ´npm install´ para instalar os pacotes necessários e `node <nome do script>` para executar os scripts
+Execute no diretório de trabalho `npm install` para instalar os pacotes necessários e `node <nome do script>` para executar os scripts
